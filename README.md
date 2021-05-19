@@ -1,5 +1,5 @@
-## UltramarineDragon
-# A senior class project by Kayla Narel
+# UltramarineDragon
+## A senior class project by Kayla Narel
 This project is a video game entirely written in Java, all of the source code and images used are created by me.
 In order to run the game, either
   -download the file contents in RunnableJar
